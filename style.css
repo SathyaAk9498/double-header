@@ -1,0 +1,56 @@
+*{
+    margin:o;
+    padding:0;
+    box-sizing: border-box;
+}
+.header1{
+    display: flex;
+    background-color: rgb(11, 11, 10);
+    color: white;
+    justify-content:space-between;
+    align-items: center;
+}
+.header2{
+    display: flex;
+    background-color: rgb(195, 192, 180);
+    color: rgb(9, 5, 5);
+    justify-content:space-between;
+    align-items: center;   
+}
+nav ul{
+    display: flex;
+}
+nav ul{
+    list-style-type: none;
+}
+nav ul li{
+    margin: 0 10px;
+}
+nav ul li{
+    margin: 0 10px;
+    padding: 10px 20px;
+}
+nav ul li a{
+    text-decoration: none;
+    color:rgb(201, 119, 119)
+}
+nav ul li a: :hover{
+    color:read-only;
+}
+button{
+    padding: 5px 20px;
+    border-radius: 10px;
+    border: name;
+    outline: none;
+    color: rgb(255, 40, 40);
+    font-weight: bold;
+    margin-top:2PX;
+}
+.signin{
+    background-color: rgb(9, 6, 13);
+    margin-left: 300px;
+}
+.signup{
+    background-color: rgb(5, 5, 6);
+    margin-right: 50px;
+}
